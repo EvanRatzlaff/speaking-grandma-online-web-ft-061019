@@ -4,7 +4,8 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
   elsif phrase == "#{phrase}".downcase
     puts "HUH?! SPEAK UP, SONNY!"
-  else phrase == 
+  else phrase == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
